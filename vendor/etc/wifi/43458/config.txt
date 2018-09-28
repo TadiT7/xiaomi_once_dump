@@ -1,0 +1,3 @@
+ccode=US
+regrev=988
+mimo_bw_cap=1
